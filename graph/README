@@ -1,0 +1,12 @@
+// new Date().getTime() / 1000 - (60*60*24)
+// https://poloniex.com/public?command=returnChartData&currencyPair=USDT_ETH&start=1460650430&end=9999999999&period=300
+// 288 records for the price every 5 minutes for the last day
+
+moving avg. convergence / divergence - amcd
+simple moving avg, exp moving avg, bands
+bitcoin wisdom
+
+inteligent investor / asset allocator books
+
+stat ob
+lease sq / intro to stats
